@@ -1,0 +1,1 @@
+A little playground where I test how to setup a clean express.js / TypeScript webserver
